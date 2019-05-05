@@ -1,0 +1,53 @@
+TEXT FILE STATISTICS
+
+--------------------
+
+Length of longest word: 7 ("country")
+
+Number of words in file wordlist: 9
+
+Number of words in file: 17
+
+
+Word-frequency statistics
+  
+Word-length 1: 0
+  
+Word-length 2: 2
+  
+Word-length 3: 9
+  
+Word-length 4: 4
+  
+Word-length 5: 0
+  
+Word-length 6: 0
+  
+Word-length 7: 2
+ 
+Word-length 8: 0
+  
+Word-length 9: 0
+  
+Words-length >= 10: 0
+
+
+Wordlist dump:
+
+ask:2
+
+not:1
+
+what:2
+
+your:2
+
+country:2
+
+can:2
+
+do:2
+
+for:2
+
+you:2

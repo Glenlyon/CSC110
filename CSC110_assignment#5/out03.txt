@@ -1,0 +1,102 @@
+TEXT FILE STATISTICS
+--------------------
+Length of longest word: 10 ("complexion")
+Number of words in file wordlist: 83
+Number of words in file: 114
+
+Word-frequency statistics
+  Word-length 1: 3
+  Word-length 2: 16
+  Word-length 3: 26
+  Word-length 4: 28
+  Word-length 5: 16
+  Word-length 6: 7
+  Word-length 7: 6
+  Word-length 8: 7
+  Word-length 9: 3
+  Words-length >= 10: 2
+
+Wordlist dump:
+shall:3
+i:1
+compare:1
+thee:2
+to:3
+a:2
+summer's:2
+day:1
+thou:4
+art:1
+more:2
+lovely:1
+and:5
+temperate:1
+rough:1
+winds:1
+do:1
+shake:1
+the:2
+darling:1
+buds:1
+of:3
+may:1
+lease:1
+hath:1
+all:1
+too:2
+short:1
+date:1
+sometime:2
+hot:1
+eye:1
+heaven:1
+shines:1
+often:1
+is:1
+his:2
+gold:1
+complexion:1
+dimmed:1
+every:1
+fair:3
+from:1
+declines:1
+by:1
+chance:1
+or:2
+nature's:1
+changing:1
+course:1
+untrimmed:1
+but:1
+thy:1
+eternal:2
+summer:1
+not:1
+fade:1
+nor:2
+lose:1
+possession:1
+that:1
+ow'st:1
+death:1
+brag:1
+wand'rest:1
+in:2
+shade:1
+when:1
+lines:1
+time:1
+grow'st:1
+so:2
+long:2
+as:1
+men:1
+can:2
+breathe:1
+eyes:1
+see:1
+lives:1
+this:2
+gives:1
+life:1

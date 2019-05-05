@@ -1,0 +1,40 @@
+TEXT FILE STATISTICS
+--------------------
+Length of longest word: 8 ("tumbling")
+Number of words in file wordlist: 21
+Number of words in file: 25
+
+Word-frequency statistics
+  Word-length 1: 1
+  Word-length 2: 3
+  Word-length 3: 5
+  Word-length 4: 10
+  Word-length 5: 5
+  Word-length 6: 0
+  Word-length 7: 0
+  Word-length 8: 1
+  Word-length 9: 0
+  Words-length >= 10: 0
+
+Wordlist dump:
+jack:2
+and:3
+jill:2
+went:1
+up:1
+the:1
+hill:1
+to:1
+fetch:1
+a:1
+pail:1
+of:1
+water:1
+fell:1
+down:1
+broke:1
+his:1
+crown:1
+came:1
+tumbling:1
+after:1
